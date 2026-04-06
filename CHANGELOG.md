@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/RealCyberwash/max-patches/compare/v1.0.1...v1.1.0) (2026-04-06)
+
+
+### Features
+
+* compatibility with version 26.11.3 ([4d39910](https://github.com/RealCyberwash/max-patches/commit/4d3991030f87d813f511e0154cdde3c5798104c6))
+
 ## [1.0.1](https://github.com/RealCyberwash/max-patches/compare/v1.0.0...v1.0.1) (2026-04-06)
 
 
