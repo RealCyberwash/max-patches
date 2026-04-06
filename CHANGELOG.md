@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/RealCyberwash/max-patches/compare/v1.1.0...v1.1.1) (2026-04-06)
+
+
+### Bug Fixes
+
+* metadata ([2c0a1b0](https://github.com/RealCyberwash/max-patches/commit/2c0a1b0634067d8e8ec90dc0432656dd4334a11c))
+
 # [1.1.0](https://github.com/RealCyberwash/max-patches/compare/v1.0.1...v1.1.0) (2026-04-06)
 
 
