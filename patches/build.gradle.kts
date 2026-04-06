@@ -2,12 +2,12 @@ group = "app.morphe"
 
 patches {
     about {
-        name = "XYZ Patches for use with Morphe"
-        description = "Example patches"
-        source = "git@github.com:MorpheApp/morphe-patches-template.git"
-        author = "Awesome dev"
+        name = "Chmax Patches"
+        description = "Patches for a piece of shit named Max"
+        source = "git@github.com:RealCyberwash/max-patches.git"
+        author = "0zd0"
         contact = "na"
-        website = "https://morphe.software"
+        website = "https://github.com/RealCyberwash/max-patches"
         license = "GPLv3"
     }
 }
