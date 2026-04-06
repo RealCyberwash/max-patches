@@ -15,6 +15,9 @@ object Constants {
             // and is expected to work with all future app targets
             AppTarget(
                 version = "26.10.1"
+            ),
+            AppTarget(
+                version = "26.11.3"
             )
         )
     )
